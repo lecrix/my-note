@@ -1,0 +1,5 @@
+# MyNote 依赖列表
+# 本项目主要使用 Python 标准库，无需额外依赖
+
+# 打包工具
+pyinstaller>=6.0.0

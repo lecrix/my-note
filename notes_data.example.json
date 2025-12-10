@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "text": "欢迎使用 MyNote (示例事项)",
+      "completed": false,
+      "created_at": "2025-01-01T00:00:00.000000"
+    }
+  ],
+  "window": {
+    "x": 100,
+    "y": 100,
+    "width": 300,
+    "height": 400
+  },
+  "settings": {
+    "mode": "topmost",
+    "visibility_mode": "always_visible",
+    "font_size": 13,
+    "opacity_focused": 1.0,
+    "opacity_unfocused": 0.7,
+    "font_family": "Microsoft YaHei UI"
+  }
+}

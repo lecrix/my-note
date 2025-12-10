@@ -1,0 +1,28 @@
+# Python 构建产物
+build/
+dist/
+*.spec
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 用户数据 (运行时生成)
+notes_data.json
+
+# IDE / 编辑器配置
+.vscode/
+.idea/
+.claude/
+.history/
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# 系统文件
+Thumbs.db
+Desktop.ini
