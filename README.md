@@ -55,8 +55,8 @@ Claude Code 和 Google Gemini 辅助创建的：一个精致的、无干扰的 W
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/Lecr7s/MyNote.git
-   cd MyNote
+   git clone https://github.com/lecrix/my-note.git
+   cd my-note
    ```
 
 2. **安装依赖**
@@ -150,7 +150,7 @@ pyinstaller build_config.py
 ## 📁 项目结构
 
 ```
-MyNote/
+my-note/
 ├── note.py                 # 核心代码（UI逻辑、WinAPI调用、事件处理）
 ├── build_config.py         # PyInstaller 打包配置文件
 ├── notes_data.json         # 用户数据（自动生成，已在 .gitignore 中）
